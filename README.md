@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Youfit](https://github.com/K4ME/Youfit) 
-- 🌱 I’m currently learning [React](https://pt-br.reactjs.org/)
-- 👯 I’m looking to collaborate on [React](https://pt-br.reactjs.org/)
-- 📫 How to reach me: guilhermegodencio@gmail.com
+- 🔭 I’m currently working on [Youfit](https://github.com/K4ME/Youfit).
+- 🌱 I’m currently learning [React](https://pt-br.reactjs.org/) and [React Native](https://github.com/facebook/react-native).
+- 👯 I’m looking to collaborate with [React](https://pt-br.reactjs.org/) projects. 
+- 📫 How to reach me: guilhermegodencio@gmail.com and https://www.linkedin.com/in/guilhermemacrini/
 
 
 <p align="center">
