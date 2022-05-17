@@ -5,6 +5,8 @@
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:guilhermegodencio@gmail.com)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/guilhermemacrini/)
 
 <br/>
+![](https://komarev.com/ghpvc/?username=K4ME)
+<br/>
 
 ## Languages and Tools:
 
